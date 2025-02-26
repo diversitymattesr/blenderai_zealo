@@ -1,0 +1,894 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-17 12:07+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: preferences.py:13
+msgctxt "*"
+msgid "Tripo API Key"
+msgstr ""
+
+#: generators\trellis_generator.py:114
+msgctxt "*"
+msgid "Installing dependency: "
+msgstr ""
+
+#: generators\trellis_generator.py:135
+msgctxt "*"
+msgid "Installation of Python dependency success: "
+msgstr ""
+
+#: generators\trellis_generator.py:233
+msgctxt "*"
+msgid "Try to launch Trellis Generator..."
+msgstr ""
+
+#: generators\trellis_generator.py:296
+msgctxt "*"
+msgid "Trellis Generator exited with error since: "
+msgstr ""
+
+#: generators\trellis_generator.py:298
+msgctxt "*"
+msgid "Trellis Generator exited normally"
+msgstr ""
+
+#: generators\trellis_generator.py:300
+msgctxt "*"
+msgid "Trellis Generator exited with unexpected error since: "
+msgstr ""
+
+#: generators\trellis_generator.py:316 generators\trellis_generator.py:319
+msgctxt "*"
+msgid "No Trellis running"
+msgstr ""
+
+#: generators\trellis_generator.py:327 generators\tripo_generator.py:359
+msgctxt "*"
+msgid "Error code: "
+msgstr ""
+
+#: generators\trellis_generator.py:328 generators\tripo_generator.py:360
+msgctxt "*"
+msgid "Error message: "
+msgstr ""
+
+#: generators\trellis_generator.py:329 generators\tripo_generator.py:361
+msgctxt "*"
+msgid "Suggestion: "
+msgstr ""
+
+#: generators\trellis_generator.py:345
+msgctxt "*"
+msgid "There is something wrong on the local machine: "
+msgstr ""
+
+#: generators\trellis_generator.py:346
+msgctxt "*"
+msgid "Bring the code and message and contact the admin of this blender addon"
+msgstr ""
+
+#: generators\trellis_generator.py:367
+msgctxt "*"
+msgid ""
+"There is something wrong on the local machine to request a connection to"
+msgstr ""
+
+#: generators\trellis_generator.py:367 generators\tripo_generator.py:88
+#: generators\tripo_generator.py:95
+msgctxt "*"
+msgid "since error: "
+msgstr ""
+
+#: generators\trellis_generator.py:368
+msgctxt "*"
+msgid "Please try to do it again or contact to admin of this blender addon"
+msgstr ""
+
+#: generators\trellis_generator.py:387
+msgctxt "*"
+msgid "Task generation failed since an error: "
+msgstr ""
+
+#: generators\trellis_generator.py:388
+msgctxt "*"
+msgid "Try to re-watch the task or contact the admin of this blender addon."
+msgstr ""
+
+#: generators\trellis_generator.py:396
+msgctxt "*"
+msgid "Something wrong on the local machine. Code: "
+msgstr ""
+
+#: generators\trellis_generator.py:396
+msgctxt "*"
+msgid "Reason: "
+msgstr ""
+
+#: generators\trellis_generator.py:397 generators\trellis_generator.py:403
+#: generators\tripo_generator.py:201 generators\tripo_generator.py:216
+msgctxt "*"
+msgid "Try to do it again or contact the admin of this blender addon."
+msgstr ""
+
+#: generators\trellis_generator.py:402 generators\tripo_generator.py:215
+msgctxt "*"
+msgid "Something wrong on the local machine: "
+msgstr ""
+
+#: generators\trellis_generator.py:448
+msgctxt "*"
+msgid "An unexpected error occurred: "
+msgstr ""
+
+#: generators\trellis_generator.py:449
+msgctxt "*"
+msgid "Bring the code and message and contact the admin of the blender addon"
+msgstr ""
+
+#: generators\tripo_generator.py:66
+msgctxt "*"
+msgid "Installing "
+msgstr ""
+
+#: generators\tripo_generator.py:86
+msgctxt "*"
+msgid "Installation of this dep success: "
+msgstr ""
+
+#: generators\tripo_generator.py:88 generators\tripo_generator.py:95
+msgctxt "*"
+msgid "Installation of this dep failed: "
+msgstr ""
+
+#: generators\tripo_generator.py:111
+msgctxt "*"
+msgid "Checking Tripo API Key: "
+msgstr ""
+
+#: generators\tripo_generator.py:123
+msgctxt "*"
+msgid "Tripo API Key Correct."
+msgstr ""
+
+#: generators\tripo_generator.py:123
+msgctxt "*"
+msgid "User Balance: "
+msgstr ""
+
+#: generators\tripo_generator.py:127 generators\tripo_generator.py:132
+msgctxt "*"
+msgid "Tripo API Key Incorrect Since Error: "
+msgstr ""
+
+#: generators\tripo_generator.py:200
+msgctxt "*"
+msgid "Something wrong on the task. The finalized status of this task is: "
+msgstr ""
+
+#: operators\general.py:12
+msgctxt "*"
+msgid "Check Windows Long Path Support"
+msgstr ""
+
+#: operators\general.py:38
+msgctxt "*"
+msgid "Select Folder to Contain File"
+msgstr ""
+
+#: operators\general.py:41
+msgctxt "*"
+msgid "Folder"
+msgstr ""
+
+#: operators\general.py:55
+msgctxt "*"
+msgid "Select a folder to contain the script"
+msgstr ""
+
+#: operators\general.py:57
+msgctxt "*"
+msgid "Default to: "
+msgstr ""
+
+#: operators\general.py:69
+msgctxt "*"
+msgid "Copy file: "
+msgstr ""
+
+#: operators\general.py:69
+msgctxt "*"
+msgid " to: "
+msgstr ""
+
+#: operators\general.py:69
+msgctxt "*"
+msgid " failed since error: "
+msgstr ""
+
+#: operators\trellis.py:14
+msgctxt "*"
+msgid "Check Nvidia Driver Version if Manifest Min Version"
+msgstr ""
+
+#: operators\trellis.py:29
+msgctxt "*"
+msgid "Check Trellis Generator Python Dependencies"
+msgstr ""
+
+#: operators\trellis.py:47
+msgctxt "*"
+msgid "Install Trellis Generator Python Dependencies"
+msgstr ""
+
+#: operators\trellis.py:53
+msgctxt "*"
+msgid ""
+"Tripo is installing python dependencies currently. Please wait for it and "
+"then install for trellis."
+msgstr ""
+
+#: operators\trellis.py:82
+msgctxt "*"
+msgid "Check Wether Trellis Generator is Ready"
+msgstr ""
+
+#: operators\trellis.py:108 operators\trellis.py:142
+msgctxt "*"
+msgid "Make Trellis Generator Ready"
+msgstr ""
+
+#: operators\trellis.py:113
+msgctxt "*"
+msgid "Terminate: "
+msgstr ""
+
+#: operators\trellis.py:118
+msgctxt "*"
+msgid "Precision"
+msgstr ""
+
+#: operators\trellis.py:120
+msgctxt "*"
+msgid "float16"
+msgstr ""
+
+#: operators\trellis.py:121
+msgctxt "*"
+msgid "float32"
+msgstr ""
+
+#: operators\trellis.py:127
+msgctxt "*"
+msgid "Device Mode"
+msgstr ""
+
+#: operators\trellis.py:129
+msgctxt "*"
+msgid "dynamic"
+msgstr ""
+
+#: operators\trellis.py:130
+msgctxt "*"
+msgid "cuda"
+msgstr ""
+
+#: operators\trellis.py:150
+msgctxt "*"
+msgid ""
+"There is a process taking over port 8000 which not belongs to current process"
+msgstr ""
+
+#: operators\trellis.py:152
+msgctxt "*"
+msgid ""
+"If you choose not to terminate, then you can not run trellis on current "
+"process."
+msgstr ""
+
+#: operators\trellis.py:153
+msgctxt "*"
+msgid ""
+"Default configuration of precision and device mode required least VRAM. Any "
+"changes would require more VRAM."
+msgstr ""
+
+#: operators\trellis.py:195
+msgctxt "*"
+msgid "Manually Close Trellis Process"
+msgstr ""
+
+#: operators\trellis.py:200
+msgctxt "*"
+msgid "Manually close trellis process"
+msgstr ""
+
+#: operators\trellis.py:201
+msgctxt "*"
+msgid "Are you sure you want to terminate the process running Trellis?"
+msgstr ""
+
+#: operators\trellis.py:216
+msgctxt "*"
+msgid "Toggle Trellis Generator Panel"
+msgstr ""
+
+#: operators\trellis.py:225
+msgctxt "*"
+msgid "Add Image to 3D Task in Trellis Generator"
+msgstr ""
+
+#: operators\trellis.py:229 operators\tripogen.py:113 operators\tripogen.py:309
+msgctxt "*"
+msgid "Task Name"
+msgstr ""
+
+#: operators\trellis.py:233 operators\tripogen.py:313
+msgctxt "*"
+msgid "Image Path"
+msgstr ""
+
+#: operators\trellis.py:238
+msgctxt "*"
+msgid "Preprocess Image"
+msgstr ""
+
+#: operators\trellis.py:243 operators\tripogen.py:127 operators\tripogen.py:327
+msgctxt "*"
+msgid "Output Type"
+msgstr ""
+
+#: operators\trellis.py:245 operators\tripogen.py:129 operators\tripogen.py:329
+#: ui\trellis\lists.py:33 ui\tripo\lists.py:24 ui\tripo\lists.py:48
+#: ui\tripo\lists.py:81 ui\tripo\lists.py:113
+msgctxt "*"
+msgid "Model"
+msgstr ""
+
+#: operators\trellis.py:246 operators\tripogen.py:130 operators\tripogen.py:330
+#: ui\trellis\lists.py:34 ui\tripo\lists.py:49 ui\tripo\lists.py:114
+msgctxt "*"
+msgid "Base Model"
+msgstr ""
+
+#: operators\trellis.py:256 operators\tripogen.py:138 operators\tripogen.py:340
+msgctxt "*"
+msgid "Task"
+msgstr ""
+
+#: operators\trellis.py:263 operators\tripogen.py:348
+msgctxt "*"
+msgid "Only png and jpeg format."
+msgstr ""
+
+#: operators\trellis.py:280
+msgctxt "*"
+msgid "Now we can only support png and jepg image format."
+msgstr ""
+
+#: operators\trellis.py:315 operators\tripogen.py:401
+msgctxt "*"
+msgid "Remove Failed Image to 3D Task"
+msgstr ""
+
+#: operators\trellis.py:327 operators\tripogen.py:413
+msgctxt "*"
+msgid "You can only remove a uploading failed task or creating failed task"
+msgstr ""
+
+#: operators\trellis.py:337 operators\tripogen.py:423
+msgctxt "*"
+msgid "Rewatch Image to 3D Task"
+msgstr ""
+
+#: operators\trellis.py:345 operators\tripogen.py:433
+msgctxt "*"
+msgid "You can only re-watch a task with status watch_failed"
+msgstr ""
+
+#: operators\trellis.py:368 operators\tripogen.py:457
+msgctxt "*"
+msgid "Redownload Image to 3D Task"
+msgstr ""
+
+#: operators\trellis.py:378 operators\tripogen.py:470
+msgctxt "*"
+msgid "You can only re-download model with status downloading_failed"
+msgstr ""
+
+#: operators\trellis.py:403
+msgctxt "*"
+msgid "Trellis: Import Model Of Success Image 2 3D Task"
+msgstr ""
+
+#: operators\trellis.py:410 operators\tripogen.py:282 operators\tripogen.py:500
+msgctxt "*"
+msgid "The model hasn't been downloaded yet!"
+msgstr ""
+
+#: operators\trellis.py:417
+msgctxt "*"
+msgid "Try to import glb file from: "
+msgstr ""
+
+#: operators\trellis.py:417
+msgctxt "*"
+msgid "But get an error: "
+msgstr ""
+
+#: operators\trellis.py:421 operators\tripogen.py:293 operators\tripogen.py:511
+msgctxt "*"
+msgid "No objects were imported."
+msgstr ""
+
+#: operators\trellis.py:427 operators\tripogen.py:299 operators\tripogen.py:517
+msgctxt "*"
+msgid "Imported object: "
+msgstr ""
+
+#: operators\tripogen.py:12
+msgctxt "*"
+msgid "Check Tripo Generator Python Dependencies"
+msgstr ""
+
+#: operators\tripogen.py:30
+msgctxt "*"
+msgid "Install Tripo Generator Python Dependencies"
+msgstr ""
+
+#: operators\tripogen.py:36
+msgctxt "*"
+msgid ""
+"Trellis is installing python dependencies currently. Please wait for it and "
+"then install for tripo."
+msgstr ""
+
+#: operators\tripogen.py:65
+msgctxt "*"
+msgid "Check Wether Tripo Generator is Ready"
+msgstr ""
+
+#: operators\tripogen.py:100
+msgctxt "*"
+msgid "Toggle Tripo Generator Panel"
+msgstr ""
+
+#: operators\tripogen.py:110
+msgctxt "*"
+msgid "Add Text to 3D Task"
+msgstr ""
+
+#: operators\tripogen.py:116 ui\tripo\lists.py:25
+msgctxt "*"
+msgid "Prompt"
+msgstr ""
+
+#: operators\tripogen.py:119 operators\tripogen.py:318
+msgctxt "*"
+msgid "Model Version"
+msgstr ""
+
+#: operators\tripogen.py:121 operators\tripogen.py:320 ui\tripo\lists.py:12
+#: ui\tripo\lists.py:69
+msgctxt "*"
+msgid "v2.0"
+msgstr ""
+
+#: operators\tripogen.py:122 operators\tripogen.py:321 ui\tripo\lists.py:13
+#: ui\tripo\lists.py:70
+msgctxt "*"
+msgid "v1.4"
+msgstr ""
+
+#: operators\tripogen.py:123 operators\tripogen.py:322 ui\tripo\lists.py:14
+#: ui\tripo\lists.py:71
+msgctxt "*"
+msgid "v1.3"
+msgstr ""
+
+#: operators\tripogen.py:131 operators\tripogen.py:331 ui\tripo\lists.py:50
+#: ui\tripo\lists.py:115
+msgctxt "*"
+msgid "PBR Model"
+msgstr ""
+
+#: operators\tripogen.py:184
+msgctxt "*"
+msgid "Remove Failed Text to 3D Task"
+msgstr ""
+
+#: operators\tripogen.py:196
+msgctxt "*"
+msgid "You can only remove a creating failed task"
+msgstr ""
+
+#: operators\tripogen.py:205
+msgctxt "*"
+msgid "Rewatch Text to 3D Task"
+msgstr ""
+
+#: operators\tripogen.py:215
+msgctxt "*"
+msgid "You can only rewatch a task with status watch_failed"
+msgstr ""
+
+#: operators\tripogen.py:239
+msgctxt "*"
+msgid "Redownload Text to 3D Task"
+msgstr ""
+
+#: operators\tripogen.py:252
+msgctxt "*"
+msgid "You can only re-download model with status downloading_failed."
+msgstr ""
+
+#: operators\tripogen.py:275
+msgctxt "*"
+msgid "Import Model Of Success Txt To 3D Task"
+msgstr ""
+
+#: operators\tripogen.py:305
+msgctxt "*"
+msgid "Add Image to 3D Task"
+msgstr ""
+
+#: operators\tripogen.py:365
+msgctxt "*"
+msgid "Now we can only support png and jepg image format. "
+msgstr ""
+
+#: operators\tripogen.py:493
+msgctxt "*"
+msgid "Import Model Of Success Image to 3D Task"
+msgstr ""
+
+#: ui\panels.py:8
+msgctxt "*"
+msgid "AI Generator Status"
+msgstr ""
+
+#: ui\panels.py:11
+msgctxt "*"
+msgid "AI Generator"
+msgstr ""
+
+#: ui\panels.py:24 ui\tripo\panels.py:8
+msgctxt "*"
+msgid "Tripo Generator"
+msgstr ""
+
+#: ui\panels.py:29
+msgctxt "*"
+msgid "Close Tripo Generator"
+msgstr ""
+
+#: ui\panels.py:31
+msgctxt "*"
+msgid "Open Tripo Generator"
+msgstr ""
+
+#: ui\panels.py:33
+msgctxt "*"
+msgid "The tripo api key is not correct"
+msgstr ""
+
+#: ui\panels.py:34
+msgctxt "*"
+msgid "Please go to addon preferences to modify it."
+msgstr ""
+
+#: ui\panels.py:35
+msgctxt "*"
+msgid "Check API Key"
+msgstr ""
+
+#: ui\panels.py:40 ui\panels.py:69
+msgctxt "*"
+msgid "Installing Progress"
+msgstr ""
+
+#: ui\panels.py:43 ui\panels.py:72
+msgctxt "*"
+msgid "Install Python Dependencies"
+msgstr ""
+
+#: ui\panels.py:49 ui\trellis\panels.py:9
+msgctxt "*"
+msgid "Trellis Generator"
+msgstr ""
+
+#: ui\panels.py:55
+msgctxt "*"
+msgid "Close Trellis Generator"
+msgstr ""
+
+#: ui\panels.py:57
+msgctxt "*"
+msgid "Open Trellis Generator"
+msgstr ""
+
+#: ui\panels.py:58
+msgctxt "*"
+msgid "Manually close Trellis process"
+msgstr ""
+
+#: ui\panels.py:61
+msgctxt "*"
+msgid "Making Ready Progress"
+msgstr ""
+
+#: ui\panels.py:64
+msgctxt "*"
+msgid "Get Trellis Generator Ready"
+msgstr ""
+
+#: ui\panels.py:76
+msgctxt "*"
+msgid ""
+"The version of your Nvidia driver should be at least 527.41. Please update "
+"your driver."
+msgstr ""
+
+#: ui\panels.py:77
+msgctxt "*"
+msgid "Check Nvidia Driver"
+msgstr ""
+
+#: ui\panels.py:79
+msgctxt "*"
+msgid "Method A (If you have Geforce Experience installed in your computer)"
+msgstr ""
+
+#: ui\panels.py:81
+msgctxt "*"
+msgid "Step1: Open Geforce Experience"
+msgstr ""
+
+#: ui\panels.py:82
+msgctxt "*"
+msgid "Step2: Click Driver tab on top"
+msgstr ""
+
+#: ui\panels.py:83
+msgctxt "*"
+msgid "Step3: In available driver section, click download to get latest driver"
+msgstr ""
+
+#: ui\panels.py:86
+msgctxt "*"
+msgid ""
+"Method B (If you don't have Geforce Experience installed in your computer)"
+msgstr ""
+
+#: ui\panels.py:90 ui\panels.py:113
+msgctxt "*"
+msgid "Step1: "
+msgstr ""
+
+#: ui\panels.py:92
+msgctxt "*"
+msgid "Get Programme to Update Nvidia Driver"
+msgstr ""
+
+#: ui\panels.py:93
+msgctxt "*"
+msgid ""
+"Step2: In Manual Driver Search Area, Select Appropriate Type of Your Driver"
+msgstr ""
+
+#: ui\panels.py:94
+msgctxt "*"
+msgid ""
+"Step3: In the Results, Choose any one between Studio Driver and Game Ready "
+"Driver"
+msgstr ""
+
+#: ui\panels.py:95
+msgctxt "*"
+msgid "Step4: After Downloaded, Follow Guided to Update Your Driver"
+msgstr ""
+
+#: ui\panels.py:97
+msgctxt "*"
+msgid "Check if windows support long path"
+msgstr ""
+
+#: ui\panels.py:98
+msgctxt "*"
+msgid "Your windows does not support long path."
+msgstr ""
+
+#: ui\panels.py:99
+msgctxt "*"
+msgid "Try to configure your windows using following methods"
+msgstr ""
+
+#: ui\panels.py:101
+msgctxt "*"
+msgid "Method A: Manually"
+msgstr ""
+
+#: ui\panels.py:103
+msgctxt "*"
+msgid ""
+"Step1: Open Start Menu -> Search Registry Editor -> Open it in "
+"administration mode"
+msgstr ""
+
+#: ui\panels.py:104
+msgctxt "*"
+msgid "Step2: Navigate to: "
+msgstr ""
+
+#: ui\panels.py:105
+msgctxt "*"
+msgid "Step3: Find Key: LongPathsEnabled and set the value of it to 1"
+msgstr ""
+
+#: ui\panels.py:106
+msgctxt "*"
+msgid "Step4: Click the button above to check if windows now support long path"
+msgstr ""
+
+#: ui\panels.py:109
+msgctxt "*"
+msgid "Method B: Automatically"
+msgstr ""
+
+#: ui\panels.py:114
+msgctxt "*"
+msgid "Select a folder to contain the automatic script"
+msgstr ""
+
+#: ui\panels.py:116
+msgctxt "*"
+msgid "Step2: Run the script in administration mode named "
+msgstr ""
+
+#: ui\panels.py:117
+msgctxt "*"
+msgid "Step3: Click the button above to check if windows now support long path"
+msgstr ""
+
+#: ui\panels.py:121
+msgctxt "*"
+msgid "The blender extension is in public test phrase."
+msgstr ""
+
+#: ui\panels.py:122
+msgctxt "*"
+msgid ""
+"If you encounter some issue, open blender console to check or bring the "
+"error to admin."
+msgstr ""
+
+#: ui\panels.py:123
+msgctxt "*"
+msgid "Toggle blender console"
+msgstr ""
+
+#: ui\trellis\lists.py:16 ui\tripo\lists.py:23 ui\tripo\lists.py:80
+msgctxt "*"
+msgid "Name"
+msgstr ""
+
+#: ui\trellis\lists.py:17 ui\tripo\lists.py:82
+msgctxt "*"
+msgid "Image"
+msgstr ""
+
+#: ui\trellis\lists.py:18 ui\tripo\lists.py:28 ui\tripo\lists.py:85
+msgctxt "*"
+msgid "Output"
+msgstr ""
+
+#: ui\trellis\lists.py:19 ui\tripo\lists.py:26 ui\tripo\lists.py:83
+msgctxt "*"
+msgid "Create"
+msgstr ""
+
+#: ui\trellis\lists.py:20 ui\tripo\lists.py:27 ui\tripo\lists.py:84
+msgctxt "taskHeader"
+msgid "Watch"
+msgstr ""
+
+#: ui\trellis\lists.py:21 ui\tripo\lists.py:29 ui\tripo\lists.py:86
+msgctxt "*"
+msgid "Download"
+msgstr ""
+
+#: ui\trellis\lists.py:26 ui\trellis\lists.py:38 ui\trellis\lists.py:45
+#: ui\trellis\lists.py:52 ui\tripo\lists.py:41 ui\tripo\lists.py:54
+#: ui\tripo\lists.py:92 ui\tripo\lists.py:99 ui\tripo\lists.py:106
+#: ui\tripo\lists.py:119
+msgctxt "*"
+msgid "Not Yet"
+msgstr ""
+
+#: ui\trellis\lists.py:27 ui\tripo\lists.py:93
+msgctxt "*"
+msgid "Uploading"
+msgstr ""
+
+#: ui\trellis\lists.py:29 ui\trellis\lists.py:41 ui\trellis\lists.py:48
+#: ui\trellis\lists.py:55 ui\tripo\lists.py:37 ui\tripo\lists.py:44
+#: ui\tripo\lists.py:57 ui\tripo\lists.py:95 ui\tripo\lists.py:102
+#: ui\tripo\lists.py:109 ui\tripo\lists.py:122
+msgctxt "*"
+msgid "Failed"
+msgstr ""
+
+#: ui\trellis\lists.py:39 ui\tripo\lists.py:35 ui\tripo\lists.py:100
+msgctxt "*"
+msgid "Creating"
+msgstr ""
+
+#: ui\trellis\lists.py:40 ui\tripo\lists.py:36 ui\tripo\lists.py:101
+msgctxt "*"
+msgid "Created"
+msgstr ""
+
+#: ui\trellis\lists.py:47 ui\trellis\lists.py:54 ui\tripo\lists.py:43
+#: ui\tripo\lists.py:56 ui\tripo\lists.py:108 ui\tripo\lists.py:121
+msgctxt "*"
+msgid "Success"
+msgstr ""
+
+#: ui\trellis\panels.py:12
+msgctxt "*"
+msgid "Trellis"
+msgstr ""
+
+#: ui\trellis\panels.py:23 ui\tripo\panels.py:40
+msgctxt "*"
+msgid "Image to 3D Tasks"
+msgstr ""
+
+#: ui\trellis\panels.py:33 ui\tripo\panels.py:34 ui\tripo\panels.py:51
+msgctxt "Operator"
+msgid "Add"
+msgstr ""
+
+#: ui\trellis\panels.py:34 ui\tripo\panels.py:35 ui\tripo\panels.py:52
+msgctxt "*"
+msgid "Remove Failed"
+msgstr ""
+
+#: ui\trellis\panels.py:35 ui\tripo\panels.py:36 ui\tripo\panels.py:53
+msgctxt "*"
+msgid "Rewatch"
+msgstr ""
+
+#: ui\trellis\panels.py:36 ui\tripo\panels.py:37 ui\tripo\panels.py:54
+msgctxt "*"
+msgid "Redownload"
+msgstr ""
+
+#: ui\trellis\panels.py:37 ui\tripo\panels.py:38 ui\tripo\panels.py:55
+msgctxt "*"
+msgid "Import"
+msgstr ""
+
+#: ui\tripo\panels.py:11
+msgctxt "*"
+msgid "Tripo"
+msgstr ""
+
+#: ui\tripo\panels.py:23
+msgctxt "*"
+msgid "Text to 3D Tasks"
+msgstr ""

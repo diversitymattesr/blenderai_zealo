@@ -1,0 +1,25 @@
+# Python cache directories
+**/__pycache__/
+
+
+# IDE settings
+**/.vscode/
+
+# user data folder
+/user_data
+
+# venv for each ai generator
+/venv
+
+
+# Common backup files and directories (recommended addition)
+*~
+*.swp
+*.swo
+.DS_Store
+
+# tmp dir
+/tmp
+
+# portable tools, this may be too large for uploading to github, but in the release version, it is included
+/portable_tools

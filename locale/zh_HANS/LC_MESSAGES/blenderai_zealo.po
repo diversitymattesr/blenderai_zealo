@@ -1,0 +1,896 @@
+# Chinese translations for PACKAGE package.
+# Copyright (C) 2025 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-17 12:07+0800\n"
+"PO-Revision-Date: 2025-01-28 02:02+0800\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: zh_HANS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: preferences.py:13
+msgctxt "*"
+msgid "Tripo API Key"
+msgstr "Tripo API密钥"
+
+#: generators\trellis_generator.py:114
+msgctxt "*"
+msgid "Installing dependency: "
+msgstr "正在安装依赖项："
+
+#: generators\trellis_generator.py:135
+msgctxt "*"
+msgid "Installation of Python dependency success: "
+msgstr "Python依赖项安装成功："
+
+#: generators\trellis_generator.py:233
+msgctxt "*"
+msgid "Try to launch Trellis Generator..."
+msgstr "正在尝试启动Trellis建模器..."
+
+#: generators\trellis_generator.py:296
+msgctxt "*"
+msgid "Trellis Generator exited with error since: "
+msgstr "Trellis建模器因以下错误退出："
+
+#: generators\trellis_generator.py:298
+msgctxt "*"
+msgid "Trellis Generator exited normally"
+msgstr "Trellis建模器正常退出"
+
+#: generators\trellis_generator.py:300
+msgctxt "*"
+msgid "Trellis Generator exited with unexpected error since: "
+msgstr "Trellis建模器因意外错误退出："
+
+#: generators\trellis_generator.py:316 generators\trellis_generator.py:319
+msgctxt "*"
+msgid "No Trellis running"
+msgstr "无Trellis进程运行"
+
+#: generators\trellis_generator.py:327 generators\tripo_generator.py:359
+msgctxt "*"
+msgid "Error code: "
+msgstr "错误代码："
+
+#: generators\trellis_generator.py:328 generators\tripo_generator.py:360
+msgctxt "*"
+msgid "Error message: "
+msgstr "错误信息："
+
+#: generators\trellis_generator.py:329 generators\tripo_generator.py:361
+msgctxt "*"
+msgid "Suggestion: "
+msgstr "建议："
+
+#: generators\trellis_generator.py:345
+msgctxt "*"
+msgid "There is something wrong on the local machine: "
+msgstr "本地出现问题："
+
+#: generators\trellis_generator.py:346
+msgctxt "*"
+msgid "Bring the code and message and contact the admin of this blender addon"
+msgstr "请携带错误代码和信息联系本Blender插件管理员"
+
+#: generators\trellis_generator.py:367
+msgctxt "*"
+msgid ""
+"There is something wrong on the local machine to request a connection to"
+msgstr "本地连接请求出现问题"
+
+#: generators\trellis_generator.py:367 generators\tripo_generator.py:88
+#: generators\tripo_generator.py:95
+msgctxt "*"
+msgid "since error: "
+msgstr "因为此错误："
+
+#: generators\trellis_generator.py:368
+msgctxt "*"
+msgid "Please try to do it again or contact to admin of this blender addon"
+msgstr "请重试或联系本Blender插件管理员"
+
+#: generators\trellis_generator.py:387
+msgctxt "*"
+msgid "Task generation failed since an error: "
+msgstr "此生成任务失败，错误原因："
+
+#: generators\trellis_generator.py:388
+msgctxt "*"
+msgid "Try to re-watch the task or contact the admin of this blender addon."
+msgstr "请重新查看任务进度或联系本Blender插件管理员"
+
+#: generators\trellis_generator.py:396
+msgctxt "*"
+msgid "Something wrong on the local machine. Code: "
+msgstr "本地出现问题。代码："
+
+#: generators\trellis_generator.py:396
+msgctxt "*"
+msgid "Reason: "
+msgstr "原因："
+
+#: generators\trellis_generator.py:397 generators\trellis_generator.py:403
+#: generators\tripo_generator.py:201 generators\tripo_generator.py:216
+msgctxt "*"
+msgid "Try to do it again or contact the admin of this blender addon."
+msgstr "请重试或联系本Blender插件管理员"
+
+#: generators\trellis_generator.py:402 generators\tripo_generator.py:215
+msgctxt "*"
+msgid "Something wrong on the local machine: "
+msgstr "本地出现问题："
+
+#: generators\trellis_generator.py:448
+msgctxt "*"
+msgid "An unexpected error occurred: "
+msgstr "发生意外错误："
+
+#: generators\trellis_generator.py:449
+msgctxt "*"
+msgid "Bring the code and message and contact the admin of the blender addon"
+msgstr "请携带错误代码和信息联系Blender插件管理员"
+
+#: generators\tripo_generator.py:66
+msgctxt "*"
+msgid "Installing "
+msgstr "正在安装："
+
+#: generators\tripo_generator.py:86
+msgctxt "*"
+msgid "Installation of this dep success: "
+msgstr "依赖项安装成功："
+
+#: generators\tripo_generator.py:88 generators\tripo_generator.py:95
+msgctxt "*"
+msgid "Installation of this dep failed: "
+msgstr "依赖项安装失败："
+
+#: generators\tripo_generator.py:111
+msgctxt "*"
+msgid "Checking Tripo API Key: "
+msgstr "正在验证Tripo API密钥："
+
+#: generators\tripo_generator.py:123
+msgctxt "*"
+msgid "Tripo API Key Correct."
+msgstr "Tripo API密钥正确"
+
+#: generators\tripo_generator.py:123
+msgctxt "*"
+msgid "User Balance: "
+msgstr "用户余额："
+
+#: generators\tripo_generator.py:127 generators\tripo_generator.py:132
+msgctxt "*"
+msgid "Tripo API Key Incorrect Since Error: "
+msgstr "Tripo API密钥验证失败，错误原因："
+
+#: generators\tripo_generator.py:200
+msgctxt "*"
+msgid "Something wrong on the task. The finalized status of this task is: "
+msgstr "此生成任务出现问题，其最终状态为："
+
+#: operators\general.py:12
+msgctxt "*"
+msgid "Check Windows Long Path Support"
+msgstr "检查Windows是否支持长路径文件"
+
+#: operators\general.py:38
+msgctxt "*"
+msgid "Select Folder to Contain File"
+msgstr "选择放置文件的文件夹"
+
+#: operators\general.py:41
+msgctxt "*"
+msgid "Folder"
+msgstr "文件夹"
+
+#: operators\general.py:55
+msgctxt "*"
+msgid "Select a folder to contain the script"
+msgstr "选择放置自动脚本的文件夹"
+
+#: operators\general.py:57
+msgctxt "*"
+msgid "Default to: "
+msgstr "默认为"
+
+#: operators\general.py:69
+msgctxt "*"
+msgid "Copy file: "
+msgstr "复制文件："
+
+#: operators\general.py:69
+msgctxt "*"
+msgid " to: "
+msgstr "至："
+
+#: operators\general.py:69
+msgctxt "*"
+msgid " failed since error: "
+msgstr "失败因为此错误："
+
+#: operators\trellis.py:14
+msgctxt "*"
+msgid "Check Nvidia Driver Version if Manifest Min Version"
+msgstr "检查NVIDIA驱动版本是否满足最低要求"
+
+#: operators\trellis.py:29
+msgctxt "*"
+msgid "Check Trellis Generator Python Dependencies"
+msgstr "检查Trellis建模器Python依赖"
+
+#: operators\trellis.py:47
+msgctxt "*"
+msgid "Install Trellis Generator Python Dependencies"
+msgstr "安装Trellis建模器Python依赖"
+
+#: operators\trellis.py:53
+msgctxt "*"
+msgid ""
+"Tripo is installing python dependencies currently. Please wait for it and "
+"then install for trellis."
+msgstr "Tripo正在安装Python依赖项。请等待其完成再进行Trellis安装"
+
+#: operators\trellis.py:82
+msgctxt "*"
+msgid "Check Wether Trellis Generator is Ready"
+msgstr "检查Trellis建模器是否就绪"
+
+#: operators\trellis.py:108 operators\trellis.py:142
+msgctxt "*"
+msgid "Make Trellis Generator Ready"
+msgstr "准备Trellis建模器"
+
+#: operators\trellis.py:113
+msgctxt "*"
+msgid "Terminate: "
+msgstr "杀死该进程："
+
+#: operators\trellis.py:118
+msgctxt "*"
+msgid "Precision"
+msgstr "精度"
+
+#: operators\trellis.py:120
+msgctxt "*"
+msgid "float16"
+msgstr "float16"
+
+#: operators\trellis.py:121
+msgctxt "*"
+msgid "float32"
+msgstr "float32"
+
+#: operators\trellis.py:127
+msgctxt "*"
+msgid "Device Mode"
+msgstr "设备模式"
+
+#: operators\trellis.py:129
+msgctxt "*"
+msgid "dynamic"
+msgstr "动态"
+
+#: operators\trellis.py:130
+msgctxt "*"
+msgid "cuda"
+msgstr "CUDA"
+
+#: operators\trellis.py:150
+msgctxt "*"
+msgid ""
+"There is a process taking over port 8000 which not belongs to current process"
+msgstr "有非当前进程占用了端口 8000"
+
+#: operators\trellis.py:152
+msgctxt "*"
+msgid ""
+"If you choose not to terminate, then you can not run trellis on current "
+"process."
+msgstr "如果不终止该进程，将无法在当前进程中运行Trellis"
+
+#: operators\trellis.py:153
+msgctxt "*"
+msgid ""
+"Default configuration of precision and device mode required least VRAM. Any "
+"changes would require more VRAM."
+msgstr ""
+"精度和设备模式的默认配置所需的显存最小，如果你改变默认配置，所需显存会增多"
+
+#: operators\trellis.py:195
+msgctxt "*"
+msgid "Manually Close Trellis Process"
+msgstr "手动关闭Trellis进程"
+
+#: operators\trellis.py:200
+msgctxt "*"
+msgid "Manually close trellis process"
+msgstr "手动关闭Trellis进程"
+
+#: operators\trellis.py:201
+msgctxt "*"
+msgid "Are you sure you want to terminate the process running Trellis?"
+msgstr "你确定要强制关闭Trellis进程吗？"
+
+#: operators\trellis.py:216
+msgctxt "*"
+msgid "Toggle Trellis Generator Panel"
+msgstr "切换Trellis建模器面板"
+
+#: operators\trellis.py:225
+msgctxt "*"
+msgid "Add Image to 3D Task in Trellis Generator"
+msgstr "在Trellis建模器中添加图像转3D任务"
+
+#: operators\trellis.py:229 operators\tripogen.py:113 operators\tripogen.py:309
+msgctxt "*"
+msgid "Task Name"
+msgstr "任务名称"
+
+#: operators\trellis.py:233 operators\tripogen.py:313
+msgctxt "*"
+msgid "Image Path"
+msgstr "图像路径"
+
+#: operators\trellis.py:238
+msgctxt "*"
+msgid "Preprocess Image"
+msgstr "去除图片背景"
+
+#: operators\trellis.py:243 operators\tripogen.py:127 operators\tripogen.py:327
+msgctxt "*"
+msgid "Output Type"
+msgstr "输出类型"
+
+#: operators\trellis.py:245 operators\tripogen.py:129 operators\tripogen.py:329
+#: ui\trellis\lists.py:33 ui\tripo\lists.py:24 ui\tripo\lists.py:48
+#: ui\tripo\lists.py:81 ui\tripo\lists.py:113
+msgctxt "*"
+msgid "Model"
+msgstr "模型"
+
+#: operators\trellis.py:246 operators\tripogen.py:130 operators\tripogen.py:330
+#: ui\trellis\lists.py:34 ui\tripo\lists.py:49 ui\tripo\lists.py:114
+msgctxt "*"
+msgid "Base Model"
+msgstr "基础模型"
+
+#: operators\trellis.py:256 operators\tripogen.py:138 operators\tripogen.py:340
+msgctxt "*"
+msgid "Task"
+msgstr "任务"
+
+#: operators\trellis.py:263 operators\tripogen.py:348
+msgctxt "*"
+msgid "Only png and jpeg format."
+msgstr "仅支持PNG和JPEG图像格式"
+
+#: operators\trellis.py:280
+msgctxt "*"
+msgid "Now we can only support png and jepg image format."
+msgstr "目前仅支持PNG和JPEG图像格式"
+
+#: operators\trellis.py:315 operators\tripogen.py:401
+msgctxt "*"
+msgid "Remove Failed Image to 3D Task"
+msgstr "移除失败的图像转3D任务"
+
+#: operators\trellis.py:327 operators\tripogen.py:413
+msgctxt "*"
+msgid "You can only remove a uploading failed task or creating failed task"
+msgstr "只能移除上传失败或创建失败的任务"
+
+#: operators\trellis.py:337 operators\tripogen.py:423
+msgctxt "*"
+msgid "Rewatch Image to 3D Task"
+msgstr "查看图像转3D任务进度"
+
+#: operators\trellis.py:345 operators\tripogen.py:433
+msgctxt "*"
+msgid "You can only re-watch a task with status watch_failed"
+msgstr "只能重新查看状态为查看任务失败的任务"
+
+#: operators\trellis.py:368 operators\tripogen.py:457
+msgctxt "*"
+msgid "Redownload Image to 3D Task"
+msgstr "重新下载图像转3D任务"
+
+#: operators\trellis.py:378 operators\tripogen.py:470
+msgctxt "*"
+msgid "You can only re-download model with status downloading_failed"
+msgstr "只能重新下载状态为下载失败的任务"
+
+#: operators\trellis.py:403
+msgctxt "*"
+msgid "Trellis: Import Model Of Success Image 2 3D Task"
+msgstr "Trellis：导入成功图像转3D任务的模型"
+
+#: operators\trellis.py:410 operators\tripogen.py:282 operators\tripogen.py:500
+msgctxt "*"
+msgid "The model hasn't been downloaded yet!"
+msgstr "模型尚未下载！"
+
+#: operators\trellis.py:417
+msgctxt "*"
+msgid "Try to import glb file from: "
+msgstr "尝试从以下位置导入 GLB 文件："
+
+#: operators\trellis.py:417
+msgctxt "*"
+msgid "But get an error: "
+msgstr "但出现错误："
+
+#: operators\trellis.py:421 operators\tripogen.py:293 operators\tripogen.py:511
+msgctxt "*"
+msgid "No objects were imported."
+msgstr "没有导入任何对象"
+
+#: operators\trellis.py:427 operators\tripogen.py:299 operators\tripogen.py:517
+msgctxt "*"
+msgid "Imported object: "
+msgstr "已导入对象："
+
+#: operators\tripogen.py:12
+msgctxt "*"
+msgid "Check Tripo Generator Python Dependencies"
+msgstr "检查 Tripo 建模器 Python 依赖"
+
+#: operators\tripogen.py:30
+msgctxt "*"
+msgid "Install Tripo Generator Python Dependencies"
+msgstr "安装Tripo建模器Python依赖"
+
+#: operators\tripogen.py:36
+msgctxt "*"
+msgid ""
+"Trellis is installing python dependencies currently. Please wait for it and "
+"then install for tripo."
+msgstr "Trellis正在安装Python依赖项。请等待其完成再进行Tripo安装"
+
+#: operators\tripogen.py:65
+msgctxt "*"
+msgid "Check Wether Tripo Generator is Ready"
+msgstr "检查Tripo建模器是否就绪"
+
+#: operators\tripogen.py:100
+msgctxt "*"
+msgid "Toggle Tripo Generator Panel"
+msgstr "切换Tripo建模器面板"
+
+#: operators\tripogen.py:110
+msgctxt "*"
+msgid "Add Text to 3D Task"
+msgstr "添加文本转3D任务"
+
+#: operators\tripogen.py:116 ui\tripo\lists.py:25
+msgctxt "*"
+msgid "Prompt"
+msgstr "提示词"
+
+#: operators\tripogen.py:119 operators\tripogen.py:318
+msgctxt "*"
+msgid "Model Version"
+msgstr "模型版本"
+
+#: operators\tripogen.py:121 operators\tripogen.py:320 ui\tripo\lists.py:12
+#: ui\tripo\lists.py:69
+msgctxt "*"
+msgid "v2.0"
+msgstr "版本2.0"
+
+#: operators\tripogen.py:122 operators\tripogen.py:321 ui\tripo\lists.py:13
+#: ui\tripo\lists.py:70
+msgctxt "*"
+msgid "v1.4"
+msgstr "版本1.4"
+
+#: operators\tripogen.py:123 operators\tripogen.py:322 ui\tripo\lists.py:14
+#: ui\tripo\lists.py:71
+msgctxt "*"
+msgid "v1.3"
+msgstr "版本1.3"
+
+#: operators\tripogen.py:131 operators\tripogen.py:331 ui\tripo\lists.py:50
+#: ui\tripo\lists.py:115
+msgctxt "*"
+msgid "PBR Model"
+msgstr "PBR模型"
+
+#: operators\tripogen.py:184
+msgctxt "*"
+msgid "Remove Failed Text to 3D Task"
+msgstr "移除失败的文本转3D任务"
+
+#: operators\tripogen.py:196
+msgctxt "*"
+msgid "You can only remove a creating failed task"
+msgstr "只能移除创建失败的任务"
+
+#: operators\tripogen.py:205
+msgctxt "*"
+msgid "Rewatch Text to 3D Task"
+msgstr "重新查看文本到3D任务"
+
+#: operators\tripogen.py:215
+msgctxt "*"
+msgid "You can only rewatch a task with status watch_failed"
+msgstr "只能重新查看状态为查看任务失败的任务"
+
+#: operators\tripogen.py:239
+msgctxt "*"
+msgid "Redownload Text to 3D Task"
+msgstr "重新下载文本到3D任务"
+
+#: operators\tripogen.py:252
+msgctxt "*"
+msgid "You can only re-download model with status downloading_failed."
+msgstr "只能重新下载状态为下载失败的任务"
+
+#: operators\tripogen.py:275
+msgctxt "*"
+msgid "Import Model Of Success Txt To 3D Task"
+msgstr "导入成功的文本到3D任务模型"
+
+#: operators\tripogen.py:305
+msgctxt "*"
+msgid "Add Image to 3D Task"
+msgstr "创建图像到3D任务"
+
+#: operators\tripogen.py:365
+msgctxt "*"
+msgid "Now we can only support png and jepg image format. "
+msgstr "目前我们仅支持PNG和JPEG图像格式"
+
+#: operators\tripogen.py:493
+msgctxt "*"
+msgid "Import Model Of Success Image to 3D Task"
+msgstr "导入成功的图像到3D任务模型"
+
+#: ui\panels.py:8
+msgctxt "*"
+msgid "AI Generator Status"
+msgstr "AI建模器状态"
+
+#: ui\panels.py:11
+msgctxt "*"
+msgid "AI Generator"
+msgstr "AI建模器"
+
+#: ui\panels.py:24 ui\tripo\panels.py:8
+msgctxt "*"
+msgid "Tripo Generator"
+msgstr "Tripo建模器"
+
+#: ui\panels.py:29
+msgctxt "*"
+msgid "Close Tripo Generator"
+msgstr "关闭Tripo建模器"
+
+#: ui\panels.py:31
+msgctxt "*"
+msgid "Open Tripo Generator"
+msgstr "打开Tripo建模器"
+
+#: ui\panels.py:33
+msgctxt "*"
+msgid "The tripo api key is not correct"
+msgstr "Tripo API密钥不正确"
+
+#: ui\panels.py:34
+msgctxt "*"
+msgid "Please go to addon preferences to modify it."
+msgstr "请前往插件偏好设置进行修改"
+
+#: ui\panels.py:35
+msgctxt "*"
+msgid "Check API Key"
+msgstr "检查API密钥"
+
+#: ui\panels.py:40 ui\panels.py:69
+msgctxt "*"
+msgid "Installing Progress"
+msgstr "安装进度"
+
+#: ui\panels.py:43 ui\panels.py:72
+msgctxt "*"
+msgid "Install Python Dependencies"
+msgstr "安装Python依赖项"
+
+#: ui\panels.py:49 ui\trellis\panels.py:9
+msgctxt "*"
+msgid "Trellis Generator"
+msgstr "Trellis建模器"
+
+#: ui\panels.py:55
+msgctxt "*"
+msgid "Close Trellis Generator"
+msgstr "关闭Trellis建模器"
+
+#: ui\panels.py:57
+msgctxt "*"
+msgid "Open Trellis Generator"
+msgstr "打开Trellis建模器"
+
+#: ui\panels.py:58
+msgctxt "*"
+msgid "Manually close Trellis process"
+msgstr "手动关闭Trellis进程"
+
+#: ui\panels.py:61
+msgctxt "*"
+msgid "Making Ready Progress"
+msgstr "准备进度"
+
+#: ui\panels.py:64
+msgctxt "*"
+msgid "Get Trellis Generator Ready"
+msgstr "准备Trellis建模器"
+
+#: ui\panels.py:76
+msgctxt "*"
+msgid ""
+"The version of your Nvidia driver should be at least 527.41. Please update "
+"your driver."
+msgstr "您的Nvidia驱动程序版本应至少为527.41。请更新您的驱动程序。"
+
+#: ui\panels.py:77
+msgctxt "*"
+msgid "Check Nvidia Driver"
+msgstr "检查Nvidia驱动"
+
+#: ui\panels.py:79
+msgctxt "*"
+msgid "Method A (If you have Geforce Experience installed in your computer)"
+msgstr "方法A（如果您的计算机中已安装Geforce Experience）"
+
+#: ui\panels.py:81
+msgctxt "*"
+msgid "Step1: Open Geforce Experience"
+msgstr "步骤1：打开Geforce Experience"
+
+#: ui\panels.py:82
+msgctxt "*"
+msgid "Step2: Click Driver tab on top"
+msgstr "步骤2：点击顶部的驱动程序选项卡"
+
+#: ui\panels.py:83
+msgctxt "*"
+msgid "Step3: In available driver section, click download to get latest driver"
+msgstr "步骤3：在可用驱动程序部分，点击下载以获取最新驱动程序"
+
+#: ui\panels.py:86
+msgctxt "*"
+msgid ""
+"Method B (If you don't have Geforce Experience installed in your computer)"
+msgstr "方法B（如果您的计算机中未安装Geforce Experience）"
+
+#: ui\panels.py:90 ui\panels.py:113
+msgctxt "*"
+msgid "Step1: "
+msgstr "步骤1："
+
+#: ui\panels.py:92
+msgctxt "*"
+msgid "Get Programme to Update Nvidia Driver"
+msgstr "获取用于更新Nvidia驱动的程序"
+
+#: ui\panels.py:93
+msgctxt "*"
+msgid ""
+"Step2: In Manual Driver Search Area, Select Appropriate Type of Your Driver"
+msgstr "步骤2：在手动驱动程序搜索区域中，选择适合您的驱动程序类型"
+
+#: ui\panels.py:94
+msgctxt "*"
+msgid ""
+"Step3: In the Results, Choose any one between Studio Driver and Game Ready "
+"Driver"
+msgstr "步骤3：在搜索结果中，选择Studio驱动或Game Ready驱动中的任意一个"
+
+#: ui\panels.py:95
+msgctxt "*"
+msgid "Step4: After Downloaded, Follow Guided to Update Your Driver"
+msgstr "步骤4：下载完成后，按照引导步骤更新驱动程序"
+
+#: ui\panels.py:97
+msgctxt "*"
+msgid "Check if windows support long path"
+msgstr "检查windows是否支持长路径文件"
+
+#: ui\panels.py:98
+msgctxt "*"
+msgid "Your windows does not support long path."
+msgstr "你的windows不支持长文件路径"
+
+#: ui\panels.py:99
+msgctxt "*"
+msgid "Try to configure your windows using following methods"
+msgstr "使用以下方法配置你的windows"
+
+#: ui\panels.py:101
+msgctxt "*"
+msgid "Method A: Manually"
+msgstr "方法A：手动配置"
+
+#: ui\panels.py:103
+msgctxt "*"
+msgid ""
+"Step1: Open Start Menu -> Search Registry Editor -> Open it in "
+"administration mode"
+msgstr "步骤1：打开开始菜单 -> 搜索注册表编辑器 -> 以管理员身份运行"
+
+#: ui\panels.py:104
+msgctxt "*"
+msgid "Step2: Navigate to: "
+msgstr "步骤2： 导航至："
+
+#: ui\panels.py:105
+msgctxt "*"
+msgid "Step3: Find Key: LongPathsEnabled and set the value of it to 1"
+msgstr "步骤3：找到键：LongPathEnabled 然后将其值设为1"
+
+#: ui\panels.py:106
+msgctxt "*"
+msgid "Step4: Click the button above to check if windows now support long path"
+msgstr "步骤4: 点击上面的按钮去查看windows是否已经支持长路径文件"
+
+#: ui\panels.py:109
+msgctxt "*"
+msgid "Method B: Automatically"
+msgstr "方法B: 自动脚本配置"
+
+#: ui\panels.py:114
+msgctxt "*"
+msgid "Select a folder to contain the automatic script"
+msgstr "选择一个文件夹放置自动脚本"
+
+#: ui\panels.py:116
+msgctxt "*"
+msgid "Step2: Run the script in administration mode named "
+msgstr "步骤2：以管理员身份运行此脚本："
+
+#: ui\panels.py:117
+msgctxt "*"
+msgid "Step3: Click the button above to check if windows now support long path"
+msgstr "步骤3: 点击上面的按钮去查看windows是否已经支持长路径文件"
+
+#: ui\panels.py:121
+msgctxt "*"
+msgid "The blender extension is in public test phrase."
+msgstr "本插件目前处于公测阶段。"
+
+#: ui\panels.py:122
+msgctxt "*"
+msgid ""
+"If you encounter some issue, open blender console to check or bring the "
+"error to admin."
+msgstr ""
+"如果你遇到使用错误无法解决，请打开blender后台检查或者将错误信息带给本插件管理"
+"员检查。"
+
+#: ui\panels.py:123
+msgctxt "*"
+msgid "Toggle blender console"
+msgstr "打开/关闭blender后台"
+
+#: ui\trellis\lists.py:16 ui\tripo\lists.py:23 ui\tripo\lists.py:80
+msgctxt "*"
+msgid "Name"
+msgstr "名称"
+
+#: ui\trellis\lists.py:17 ui\tripo\lists.py:82
+msgctxt "*"
+msgid "Image"
+msgstr "图像"
+
+#: ui\trellis\lists.py:18 ui\tripo\lists.py:28 ui\tripo\lists.py:85
+msgctxt "*"
+msgid "Output"
+msgstr "输出"
+
+#: ui\trellis\lists.py:19 ui\tripo\lists.py:26 ui\tripo\lists.py:83
+msgctxt "*"
+msgid "Create"
+msgstr "创建"
+
+#: ui\trellis\lists.py:20 ui\tripo\lists.py:27 ui\tripo\lists.py:84
+msgctxt "taskHeader"
+msgid "Watch"
+msgstr "查看进度"
+
+#: ui\trellis\lists.py:21 ui\tripo\lists.py:29 ui\tripo\lists.py:86
+msgctxt "*"
+msgid "Download"
+msgstr "下载"
+
+#: ui\trellis\lists.py:26 ui\trellis\lists.py:38 ui\trellis\lists.py:45
+#: ui\trellis\lists.py:52 ui\tripo\lists.py:41 ui\tripo\lists.py:54
+#: ui\tripo\lists.py:92 ui\tripo\lists.py:99 ui\tripo\lists.py:106
+#: ui\tripo\lists.py:119
+msgctxt "*"
+msgid "Not Yet"
+msgstr "尚未进入此阶段"
+
+#: ui\trellis\lists.py:27 ui\tripo\lists.py:93
+msgctxt "*"
+msgid "Uploading"
+msgstr "上传中"
+
+#: ui\trellis\lists.py:29 ui\trellis\lists.py:41 ui\trellis\lists.py:48
+#: ui\trellis\lists.py:55 ui\tripo\lists.py:37 ui\tripo\lists.py:44
+#: ui\tripo\lists.py:57 ui\tripo\lists.py:95 ui\tripo\lists.py:102
+#: ui\tripo\lists.py:109 ui\tripo\lists.py:122
+msgctxt "*"
+msgid "Failed"
+msgstr "失败"
+
+#: ui\trellis\lists.py:39 ui\tripo\lists.py:35 ui\tripo\lists.py:100
+msgctxt "*"
+msgid "Creating"
+msgstr "创建中"
+
+#: ui\trellis\lists.py:40 ui\tripo\lists.py:36 ui\tripo\lists.py:101
+msgctxt "*"
+msgid "Created"
+msgstr "已创建"
+
+#: ui\trellis\lists.py:47 ui\trellis\lists.py:54 ui\tripo\lists.py:43
+#: ui\tripo\lists.py:56 ui\tripo\lists.py:108 ui\tripo\lists.py:121
+msgctxt "*"
+msgid "Success"
+msgstr "成功"
+
+#: ui\trellis\panels.py:12
+msgctxt "*"
+msgid "Trellis"
+msgstr "Trellis"
+
+#: ui\trellis\panels.py:23 ui\tripo\panels.py:40
+msgctxt "*"
+msgid "Image to 3D Tasks"
+msgstr "图像到3D任务"
+
+#: ui\trellis\panels.py:33 ui\tripo\panels.py:34 ui\tripo\panels.py:51
+msgctxt "Operator"
+msgid "Add"
+msgstr "创建"
+
+#: ui\trellis\panels.py:34 ui\tripo\panels.py:35 ui\tripo\panels.py:52
+msgctxt "*"
+msgid "Remove Failed"
+msgstr "移除失败项"
+
+#: ui\trellis\panels.py:35 ui\tripo\panels.py:36 ui\tripo\panels.py:53
+msgctxt "*"
+msgid "Rewatch"
+msgstr "重新查看"
+
+#: ui\trellis\panels.py:36 ui\tripo\panels.py:37 ui\tripo\panels.py:54
+msgctxt "*"
+msgid "Redownload"
+msgstr "重新下载"
+
+#: ui\trellis\panels.py:37 ui\tripo\panels.py:38 ui\tripo\panels.py:55
+msgctxt "*"
+msgid "Import"
+msgstr "导入"
+
+#: ui\tripo\panels.py:11
+msgctxt "*"
+msgid "Tripo"
+msgstr "Tripo"
+
+#: ui\tripo\panels.py:23
+msgctxt "*"
+msgid "Text to 3D Tasks"
+msgstr "文本到3D任务"
